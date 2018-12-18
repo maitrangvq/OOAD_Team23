@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_NHAHANG", "QL_NHAHANG\QL_NHAHANG.csproj", "{AFC4A767-0B48-4653-9BF6-BEB7BA0B9B0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "connextSQLServer", "ConsoleApp1\connextSQLServer.csproj", "{D2BAADCD-B0CB-4E98-AD75-B1EE8A1C4727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC4A767-0B48-4653-9BF6-BEB7BA0B9B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC4A767-0B48-4653-9BF6-BEB7BA0B9B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC4A767-0B48-4653-9BF6-BEB7BA0B9B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC4A767-0B48-4653-9BF6-BEB7BA0B9B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2BAADCD-B0CB-4E98-AD75-B1EE8A1C4727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BAADCD-B0CB-4E98-AD75-B1EE8A1C4727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BAADCD-B0CB-4E98-AD75-B1EE8A1C4727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BAADCD-B0CB-4E98-AD75-B1EE8A1C4727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B25F878-58C2-43F0-8529-74F4C971F386}
+	EndGlobalSection
+EndGlobal

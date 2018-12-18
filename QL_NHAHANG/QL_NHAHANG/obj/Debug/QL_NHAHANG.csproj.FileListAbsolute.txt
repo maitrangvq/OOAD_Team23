@@ -1,0 +1,26 @@
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Login.resources
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.cache
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.CoreCompileInputs.cache
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.TableManager.resources
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.AccountProfile.resources
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Admin.resources
+C:\Users\VI HA\source\repos\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csprojAssemblyReference.cache
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe.config
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.exe
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\bin\Debug\QL_NHAHANG.pdb
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csprojAssemblyReference.cache
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.AccountProfile.resources
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Admin.resources
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Login.resources
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.Properties.Resources.resources
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.TableManager.resources
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.GenerateResource.cache
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.csproj.CoreCompileInputs.cache
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.exe
+D:\Nam-III\OOAD\QL_NHAHANG\QL_NHAHANG\obj\Debug\QL_NHAHANG.pdb
